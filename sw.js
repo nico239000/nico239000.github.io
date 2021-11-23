@@ -1,7 +1,7 @@
 
 
 
-const contentToCache = 'ginkoWPA-v1';
+const cacheName = 'ginkoWPA-v1';
 const content = [
   './',
   './index.html',
