@@ -1,0 +1,23 @@
+{
+  "name": "ginko Progressive Web App",
+  "short_name": "ginkoPWA",
+  "description": "Progressive Web App for Ginko",
+  "icons": [
+    {
+      "src": "icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
