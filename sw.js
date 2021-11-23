@@ -52,4 +52,4 @@ self.addEventListener('activate', (e) => {
       return caches.delete(key);
     }))
   }));
-});
+});     
