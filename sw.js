@@ -8,7 +8,7 @@ self.addEventListener('install', (e) => {
 });
 
 
-const cacheName = 'js13kPWA-v1';
+const contentToCache = 'ginkoWPA-v1';
 const content = [
   './',
   './index.html',
